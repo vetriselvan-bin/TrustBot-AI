@@ -1,0 +1,10 @@
+{
+  "name": "TrustBot AI",
+  "description": "An advanced customer support conversational AI platform featuring high-accuracy intent recognition, sentiment analysis, custom prompt engineering, and visual analytics dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
